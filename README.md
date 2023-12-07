@@ -26,13 +26,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/NH-Limon/filterable-image-gallery-reactjs.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 
+   cd filterable-image-gallery-reactjs
    ```
 
 3. Install dependencies:
@@ -60,12 +60,3 @@ npm run build
 ```
 
 This will generate a production-ready build in the `dist` directory.
-
-## Usage
-
-1. Open the gallery in your web browser.
-
-2. Browse through the images.
-
-3. Use the filter buttons to filter images by category.
-
